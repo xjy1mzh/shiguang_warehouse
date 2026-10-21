@@ -5,5 +5,5 @@ adapters:
     category: "BACHELOR_AND_ASSOCIATE"
     asset_js_path: "school.js"
     import_url: "https://jwxt.hbue.edu.cn/xtgl/login_slogin.html"
-    maintainer: "xjy1mzh"
+    maintainer: "xjy1vkh"
     description: "湖北经济学院正方教务系统适配，登录后进入学生个人课表页面点击一键导入"
