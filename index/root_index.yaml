@@ -1317,4 +1317,13 @@ schools:
     name: "湖北经济学院"
     initial: "H"
     resource_folder: "HBUE"
-    
+
+  - id: "HBDFXY"
+    name: "河北东方学院"
+    initial: "H"
+    resource_folder: "HBDFXY"
+
+  - id: "ZUST"
+    name: "浙江科技大学"
+    initial: "Z"
+    resource_folder: "ZUST"
